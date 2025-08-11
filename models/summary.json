@@ -1,0 +1,19 @@
+{
+  "best_model": "GradientBoosting",
+  "best_R2": 0.1087750422632201,
+  "best_R2_percent": 10.87750422632201,
+  "saved_model_path": "./models\\GradientBoosting_best_model.pkl",
+  "metrics_csv": "./models\\model_metrics.csv",
+  "features": [
+    "BPM",
+    "Energy",
+    "Dance",
+    "Loud",
+    "Valence",
+    "Length",
+    "Acoustic"
+  ],
+  "target": "Pop.",
+  "test_size": 0.2,
+  "random_seed": 42
+}
