@@ -41,23 +41,7 @@ Implemented with `Seaborn`, `Matplotlib`, and `Plotly`:
 - **Danceability vs Valence Regression** – Trend between mood and dance features
 - **Feature Importance Plot** – Based on model predicting popularity
 
----
 
-## Machine Learning Models
-
-Trained using Scikit-learn:
-
-| Task                  | Model            | Description               |
-| --------------------- | ---------------- | ------------------------- |
-| Popularity Prediction | Ridge Regression | Estimate popularity score |
-
-Models are saved in `models/` as `.pkl` files.
-
-## Other models tested but not used in final deployment:
-
-**Linear Regression**
-**Random Forest Regressor**
-**SVR**
 
 ---
 
